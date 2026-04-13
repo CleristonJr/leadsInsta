@@ -9,7 +9,6 @@ Sistema que busca automaticamente **20 perfis profissionais** no Instagram com b
 ```
 LeadsInsta/
 ├── buscar_leads.py       ← Script principal
-├── .env                  ← Suas credenciais (NÃO compartilhe!)
 ├── requirements.txt      ← Dependências Python
 ├── leads_dentista.csv    ← CSV gerado automaticamente
 └── leads_nutricionista.csv
