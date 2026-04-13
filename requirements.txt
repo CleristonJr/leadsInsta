@@ -1,0 +1,5 @@
+instaloader
+python-dotenv
+flask
+selenium
+webdriver-manager
